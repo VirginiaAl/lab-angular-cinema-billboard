@@ -1,0 +1,11 @@
+<p>
+  my-home works!
+</p>
+<ul>
+  <li*ngFor = "let films of this.service.movieList">
+   <p>{{films.title}}</p>
+   <p>Room:{{films.room}}</p>
+   <p>Hour: {{films.hour}}</p>
+   <img [src]="films.poster" alt="images">
+</li>
+</ul>

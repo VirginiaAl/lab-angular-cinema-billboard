@@ -17,6 +17,8 @@
       "Clancy Brown",
       "Gil Bellows"
     ]
+    hours: Wednesday 19:30, 22:30,
+    room: 3
   }, {
     id: 2,
     title: "The Godfather",
@@ -35,6 +37,8 @@
       "Robert Duvall",
       "Sterling Hayden"
     ]
+    hours: Wednesday 19:30, 22:30,
+    room: 1
   }, {
     id: 3,
     title: "The Godfather Part II",
@@ -53,6 +57,8 @@
       "John Cazale",
       "Talia Shire"
     ]
+    hours: Wednesday 19:30, 22:30,
+    room: 5
   }, {
     id: 4,
     title: "The Dark Knight",
@@ -71,6 +77,8 @@
       "Maggie Gyllenhaal",
       "Gary Oldman"
     ]
+    hours: Wednesday 19:30, 22:30,
+    room: 2
   }, {
   {
     id: 5,
@@ -90,5 +98,7 @@
       "Jonathan Sagall",
       "Embeth Davidtz"
     ]
+    hours: Wednesday 19:30, 22:30,
+    room: 4
   }
 ]
